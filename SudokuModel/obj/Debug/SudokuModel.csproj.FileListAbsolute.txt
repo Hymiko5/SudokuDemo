@@ -1,0 +1,12 @@
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuModel\bin\Debug\SudokuModel.dll
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuModel\bin\Debug\SudokuModel.pdb
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.csproj.AssemblyReference.cache
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.dll
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.pdb
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuDemo\SudokuModel\bin\Debug\SudokuModel.dll
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuDemo\SudokuModel\bin\Debug\SudokuModel.pdb
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.dll
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.pdb
+C:\Users\Nguyen Phuong Nam\Source\Repos\SudokuDemo\SudokuDemo\SudokuModel\obj\Debug\SudokuModel.csproj.AssemblyReference.cache

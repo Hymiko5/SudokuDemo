@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net5.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="image.png" />
+		<None Remove="images.jpg" />
+		<None Remove="images.png" />
+		<None Remove="sudoku_icon.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SudokuModel\SudokuModel.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Resource Include="image.png" />
+	  <Resource Include="sudoku_icon.png" />
+	</ItemGroup>
+</Project>
